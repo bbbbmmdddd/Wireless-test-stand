@@ -1,0 +1,5 @@
+*.md linguist-language=C++ 
+*.cmd linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.c linguist-language=C
